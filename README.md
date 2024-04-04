@@ -12,6 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/james-davis-40b8122ab
+<a href="https://www.linkedin.com/in/james-davis-40b8122ab">
+  <img src="https://github.com/jamstylr/jamstylr/assets/159660523/4f021bf3-317d-4895-b3ac-023dd507bcc5" alt="LinkedIn" width="30" height="30">
+</a>
+
