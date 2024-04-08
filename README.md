@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jamstylr/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jamstylr/configure-ad)
+  - [Building Intuition for DNS](https://github.com/jamstylr/Building-Intuition-for-DNS)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jamstylr/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
